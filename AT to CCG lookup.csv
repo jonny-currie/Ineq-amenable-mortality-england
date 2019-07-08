@@ -1,0 +1,235 @@
+lat.name,ccg.name
+"Cheshire, Warrington and Wirral",Eastern Cheshire 
+"Cheshire, Warrington and Wirral",South Cheshire 
+"Cheshire, Warrington and Wirral",Vale Royal 
+"Cheshire, Warrington and Wirral",Warrington 
+"Cheshire, Warrington and Wirral",West Cheshire 
+"Cheshire, Warrington and Wirral",Wirral 
+,
+"Durham, Darlington and Tees",Darlington 
+"Durham, Darlington and Tees","Durham Dales, Easington and Sedgefield "
+"Durham, Darlington and Tees",Hartlepool and Stockton-on-Tees 
+"Durham, Darlington and Tees",North Durham 
+"Durham, Darlington and Tees",South Tees 
+,
+Greater Manchester,Bolton 
+Greater Manchester,Bury 
+Greater Manchester,Central Manchester 
+Greater Manchester,"Heywood, Middleton & Rochdale "
+Greater Manchester,North Manchester 
+Greater Manchester,Oldham 
+Greater Manchester,Salford 
+Greater Manchester,South Manchester 
+Greater Manchester,Stockport 
+Greater Manchester,Tameside and Glossop 
+Greater Manchester,Trafford 
+Greater Manchester,Wigan Borough 
+,
+Lancashire,Blackburn with Darwen 
+Lancashire,Blackpool 
+Lancashire,Chorley and South Ribble 
+Lancashire,East Lancashire 
+Lancashire,Fylde & Wyre 
+Lancashire,Greater Preston 
+Lancashire,Lancashire North 
+Lancashire,West Lancashire 
+,
+Merseyside,Halton 
+Merseyside,Knowsley 
+Merseyside,Liverpool 
+Merseyside,South Sefton 
+Merseyside,Southport and Formby 
+Merseyside,St Helens 
+,
+"Cumbria, Northumberland, Tyne and Wear",Cumbria 
+"Cumbria, Northumberland, Tyne and Wear",Newcastle
+"Cumbria, Northumberland, Tyne and Wear",Gateshead
+"Cumbria, Northumberland, Tyne and Wear",North Tyneside 
+"Cumbria, Northumberland, Tyne and Wear",Northumberland 
+"Cumbria, Northumberland, Tyne and Wear",South Tyneside 
+"Cumbria, Northumberland, Tyne and Wear",Sunderland 
+,
+North Yorkshire and Humber,East Riding of Yorkshire 
+North Yorkshire and Humber,"Hambleton, Richmondshire and Whitby "
+North Yorkshire and Humber,Harrogate and Rural District 
+North Yorkshire and Humber,Hull 
+North Yorkshire and Humber,North East Lincolnshire 
+North Yorkshire and Humber,North Lincolnshire 
+North Yorkshire and Humber,Scarborough and Ryedale 
+North Yorkshire and Humber,Vale of York 
+,
+South Yorkshire and Bassetlaw,Barnsley 
+South Yorkshire and Bassetlaw,Bassetlaw 
+South Yorkshire and Bassetlaw,Doncaster 
+South Yorkshire and Bassetlaw,Rotherham 
+South Yorkshire and Bassetlaw,Sheffield 
+,
+West Yorkshire,"Airedale, Wharfedale and Craven "
+West Yorkshire,Bradford City 
+West Yorkshire,Bradford Districts 
+West Yorkshire,Calderdale 
+West Yorkshire,Greater Huddersfield 
+West Yorkshire,Leeds North 
+West Yorkshire,Leeds South and East 
+West Yorkshire,Leeds West 
+West Yorkshire,North Kirklees 
+West Yorkshire,Wakefield 
+,
+"Arden, Herefordshire and Worcestershire",Coventry and Rugby 
+"Arden, Herefordshire and Worcestershire",Herefordshire 
+"Arden, Herefordshire and Worcestershire",Redditch and Bromsgrove 
+"Arden, Herefordshire and Worcestershire",South Warwickshire 
+"Arden, Herefordshire and Worcestershire",South Worcestershire 
+"Arden, Herefordshire and Worcestershire",Warwickshire North 
+"Arden, Herefordshire and Worcestershire",Wyre Forest 
+,
+Birmingham and the Black Country,Birmingham CrossCity 
+Birmingham and the Black Country,Birmingham South and Central 
+Birmingham and the Black Country,Dudley 
+Birmingham and the Black Country,Sandwell and West Birmingham 
+Birmingham and the Black Country,Solihull 
+Birmingham and the Black Country,Walsall 
+Birmingham and the Black Country,Wolverhampton 
+,
+Derbyshire and Nottinghamshire,Erewash 
+Derbyshire and Nottinghamshire,Hardwick 
+Derbyshire and Nottinghamshire,Mansfield & Ashfield
+Derbyshire and Nottinghamshire,Newark & Sherwood 
+Derbyshire and Nottinghamshire,North Derbyshire 
+Derbyshire and Nottinghamshire,Nottingham City 
+Derbyshire and Nottinghamshire,Nottingham North & East 
+Derbyshire and Nottinghamshire,Nottingham West 
+Derbyshire and Nottinghamshire,Rushcliffe 
+Derbyshire and Nottinghamshire,Southern Derbyshire 
+,
+East Anglia,Cambridgeshire and Peterborough 
+East Anglia,Great Yarmouth and Waveney 
+East Anglia,Ipswich and East Suffolk 
+East Anglia,North Norfolk 
+East Anglia,Norwich 
+East Anglia,South Norfolk 
+East Anglia,West Norfolk 
+East Anglia,West Suffolk 
+,
+Essex,Basildon and Brentwood 
+Essex,Castle Point and Rochford 
+Essex,Mid Essex 
+Essex,North East Essex 
+Essex,Southend 
+Essex,Thurrock 
+Essex,West Essex 
+,
+Hertfordshire and the South Midlands,Bedfordshire 
+Hertfordshire and the South Midlands,Corby 
+Hertfordshire and the South Midlands,East and North Hertfordshire 
+Hertfordshire and the South Midlands,Herts Valleys 
+Hertfordshire and the South Midlands,Luton 
+Hertfordshire and the South Midlands,Milton Keynes 
+Hertfordshire and the South Midlands,Nene 
+,
+Leicestershire and Lincolnshire,East Leicestershire and Rutland 
+Leicestershire and Lincolnshire,Leicester City 
+Leicestershire and Lincolnshire,Lincolnshire East 
+Leicestershire and Lincolnshire,Lincolnshire West 
+Leicestershire and Lincolnshire,South Lincolnshire 
+Leicestershire and Lincolnshire,South West Lincolnshire 
+Leicestershire and Lincolnshire,West Leicestershire 
+,
+Shropshire and Staffordshire,Cannock Chase 
+Shropshire and Staffordshire,East Staffordshire 
+Shropshire and Staffordshire,North Staffordshire 
+Shropshire and Staffordshire,Shropshire 
+Shropshire and Staffordshire,South East Staffs and Seisdon and Peninsular 
+Shropshire and Staffordshire,Stafford and Surrounds 
+Shropshire and Staffordshire,Stoke on Trent 
+Shropshire and Staffordshire,Telford & Wrekin 
+,
+London,Barking and Dagenham 
+London,Barnet 
+London,Camden 
+London,City and Hackney 
+London,Enfield 
+London,Haringey 
+London,Havering 
+London,Islington 
+London,Newham 
+London,Redbridge 
+London,Tower Hamlets 
+London,Waltham Forest 
+London,Brent 
+London,Central London (Westminster) 
+London,Ealing 
+London,Hammersmith and Fulham 
+London,Harrow 
+London,Hillingdon 
+London,Hounslow 
+London,West London 
+London,Bexley 
+London,Bromley 
+London,Croydon 
+London,Greenwich 
+London,Kingston 
+London,Lambeth 
+London,Lewisham 
+London,Merton 
+London,Richmond 
+London,Southwark 
+London,Sutton 
+London,Wandsworth 
+,
+"Bath, Gloucester, Swindon and Wiltshire",Bath and North East Somerset 
+"Bath, Gloucester, Swindon and Wiltshire",Gloucestershire 
+"Bath, Gloucester, Swindon and Wiltshire",Swindon 
+"Bath, Gloucester, Swindon and Wiltshire",Wiltshire 
+,
+BNSSSG,Bristol 
+BNSSSG,North Somerset 
+BNSSSG,Somerset 
+BNSSSG,South Gloucestershire 
+,
+"Devon, Cornwall and the Isles of Scilly",Kernow 
+"Devon, Cornwall and the Isles of Scilly","North, East, West Devon "
+"Devon, Cornwall and the Isles of Scilly",South Devon and Torbay 
+,
+Kent and Medway,Ashford 
+Kent and Medway,Canterbury and Coastal 
+Kent and Medway,"Dartford, Gravesham and Swanley "
+Kent and Medway,Medway 
+Kent and Medway,South Kent Coast 
+Kent and Medway,Swale 
+Kent and Medway,Thanet 
+Kent and Medway,West Kent 
+,
+Surrey and Sussex,Brighton & Hove 
+Surrey and Sussex,Coastal West Sussex 
+Surrey and Sussex,Crawley 
+Surrey and Sussex,East Surrey 
+Surrey and Sussex,"Eastbourne, Hailsham and Seaford "
+Surrey and Sussex,Guildford and Waverley 
+Surrey and Sussex,Hastings and Rother 
+Surrey and Sussex,High Weald Lewes Havens 
+Surrey and Sussex,Horsham and Mid Sussex 
+Surrey and Sussex,North West Surrey 
+Surrey and Sussex,Surrey Downs 
+Surrey and Sussex,Surrey Heath 
+,
+Thames Valley,Aylesbury Vale 
+Thames Valley,Bracknell and Ascot 
+Thames Valley,Chiltern 
+Thames Valley,Newbury and District 
+Thames Valley,North & West Reading 
+Thames Valley,Oxfordshire 
+Thames Valley,Slough 
+Thames Valley,South Reading 
+Thames Valley,"Windsor, Ascot and Maidenhead "
+Thames Valley,Wokingham 
+,
+Wessex,Dorset 
+Wessex,Fareham and Gosport 
+Wessex,Isle of Wight 
+Wessex,North East Hampshire and Farnham 
+Wessex,North Hampshire 
+Wessex,Portsmouth 
+Wessex,South Eastern Hampshire 
+Wessex,Southampton 
+Wessex,West Hampshire 
